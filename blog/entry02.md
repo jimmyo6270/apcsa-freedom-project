@@ -20,6 +20,8 @@ Through this [video](https://www.youtube.com/watch?v=Fd_0gtV8RiY) I found more a
 
 I came across an issue when I opened it on my own device because the school issued macbook started to struggle when I put a lot of assets into the workspace. It eventually crashed and I couldn't go any further than that. I might consider switching to another tool or project.
 
+I plan to learn more about my project then start to experiment more with RealityKit. I also will try to find a way around this problem of the school macbook being unable to run what I want it to run. I plan to get started with the UI which will display on RealityKit then afterwards I will move on to displaying some more complicated models like meshes and stuff. I will also learn how to create timers and functions that will run my game.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
