@@ -95,9 +95,17 @@ Some videos I watched were:
 
 * [2021 SwiftUI Tutorial for Beginners](https://www.youtube.com/watch?v=F2ojC6TNwws)
 * [ SwifftUI Findamentals | FULL COURSE | Beginner Friendly](https://www.youtube.com/watch?v=b1oC7sLIgpI)
-* (Playlist)[SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI)
-* (Playlist)[SwiftUI Tutorials](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI)
+* (Playlist) [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI)
+* (Playlist) [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI)
 
 ### 1/16/24
 
-* I watched more videos 
+* Once I familiarized myself with SwiftUI, I decided to watch more youtube videos on RealityKit.
+
+Some videos I watched:
+
+* [This video taught me how to create a simple app](https://www.youtube.com/watch?v=jjCsI56XavI)
+* (Playlist) [Mobile Apple AR Tutorials (RealityKit/ArKit/SwiftUI)](https://www.youtube.com/playlist?list=PLb0SG4T4tfPyQF-hMntGxaKqUJOKZQ2QX)
+* [giving me insight on how I can apply realitykit to my app](https://developer.apple.com/videos/play/wwdc2023/10080/)
+
+
