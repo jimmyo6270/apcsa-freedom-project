@@ -111,4 +111,4 @@ Some videos I watched:
 I used these websites to help me:
 
 * [the website that helped me make a dice game mainly using realitykit](https://www.ralfebert.com/ios/realitykit-dice-tutorial/)
-* [I went on forums to help me understand what I needed to create a game and what some discussions on ]
+* I went on forums to help me understand what I needed to create a game and what some discussions on realitykit were about. This forum named [Slack Overflow](https://stackoverflow.com/questions/58782164/arkit-and-realitykit-collaborative-session) helped me a lot during my research on everything like swiftui, arkit, and swiftui.
