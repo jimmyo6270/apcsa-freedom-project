@@ -6,7 +6,8 @@ Project: **First Person Shooter**
 
 ---
 
-10/30/23:
+### 10/30/23:
+
 * I went on the [xCode documentation website](https://developer.apple.com/documentation/xcode/) and I was trying to find what to start with. I found that xCode works in tandem with [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 
 * Some challenges that I faced were that xCode was quite demanding since it was owned by Apple. The coding language and [IDE](https://www.google.com/search?q=what+is+an+IDE&oq=what+is+an+IDE&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE2MjhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on) can only be accessed on Mac and not on any other [operating system](https://www.google.com/search?q=What+is+OS%3F&sca_esv=586169444&ei=bL5mZfmHDeDU5NoP5ZCBuAI&ved=0ahUKEwj57fr4r-iCAxVgKlkFHWVIACcQ4dUDCBA&uact=5&oq=What+is+OS%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1doYXQgaXMgT1M_MgsQABiABBiKBRiRAjILEAAYgAQYigUYkQIyCxAAGIAEGIoFGJECMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjiF1AAWPMVcAV4AJABAJgBU6AB-weqAQIxNrgBA8gBAPgBAcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEY0QPCAg4QLhiABBixAxjHARjRA8ICCBAAGIAEGLEDwgIREC4YgwEYkQIYsQMYgAQYigXCAgoQABiABBiKBRhDwgILEC4YgAQYxwEY0QPCAg4QABiABBiKBRixAxiDAcICIBAuGIMBGJECGLEDGIAEGIoFGJcFGNwEGN4EGOAE2AEBwgIHEAAYgAQYCsICDhAuGIAEGMcBGK8BGI4FwgINEAAYgAQYigUYsQMYQ8ICEBAAGIAEGIoFGLEDGIMBGEPCAggQABiABBjJA8ICCxAAGIAEGIoFGJIDwgIMEAAYgAQYigUYChhDwgIKEAAYgAQYsQMYCsICDRAAGIAEGLEDGMkDGArCAgsQABiABBiKBRixA-IDBBgAIEGIBgG6BgYIARABGBQ&sclient=gws-wiz-serp&safe=active&ssui=on) like [Windows](https://www.google.com/search?q=Windows+Operating+System&oq=Windows+Operating+System&gs_lcrp=EgZjaHJvbWUyCggAEAAYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQxNzhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on).
@@ -34,7 +35,8 @@ struct MeetingTimerView: View {
 * I'm going to dig deeper into the Apple xCode documentation and find more things that I need in order to make this shooter game come to life.
 
 
-11/20/23:
+### 11/20/23:
+
 * After researching on their documentation for a while, it is evident I need to include a SDK or something of the sort along with my project. It allows for more functions to be possible using the platform. Specifically for me, I may need the ARKit SDK because I need to make a game where it uses AR in order to pan the camera.
 
 * I may need to learn more about Metal because it may be important to me since I am rendering things in Augmented Reality. Any three dimensional object may need to be passed through Metal in order for the game to work properly.
@@ -56,3 +58,35 @@ funct resetValues() {
 * Though, there are some subtle differences like every line of code does not need to be ending with a semicolon.
 
 * Swift has syntax that is easy to understand and I believe it's easier to understand. There are some snippets where it is pretty self explanitory with the words that they use.
+
+### 12/4/23:
+
+* I found the documentation for Apple's augmented reality SDK named RealityKit [here](https://developer.apple.com/documentation/realitykit/)
+
+* I also needed understanding of the ARKit in order to make RealityKit work.
+
+* There are a wide range of things like games, simulation, video playback, etc on the RealityKit documentation.
+
+* I watched apple's realitykit introduction [here](https://developer.apple.com/videos/play/wwdc2023/10080/).
+
+* I also watched a youtube video on how to start off with using RealityKit to create my game [here](https://www.youtube.com/watch?v=Fd_0gtV8RiY). this introduced to me things like how xcode has a built in starter kit for RealityKit, already providing some code as a brief example on how to use RealityKit and make something display.
+
+*  I tried it myself and I used my own phone as a camera for the RealityKit to work. It ended up working perfectly fine and it displayed an actual block.
+
+### 12/11/23
+
+* Researching more about my tool, I noticed that I should implement swiftui and realitykit in the same app at the same time. I watched this [video](https://youtu.be/cT8y7fNEMuw?si=2zNw73hB7lqkX7fU) to help me understand more about how I can create visual ui on top of the camera so I can display buttons and stuff like that while the augmented reality is still working on the bottom.
+
+* I read more on the [swiftui documentation](https://developer.apple.com/documentation/swiftui/) and I found some things like an introduction to visionOS [here](https://developer.apple.com/documentation/visionOS/World). I might find it important later on as I want something like a movable ui within the augmented reality.
+
+* I read more about [windows](https://developer.apple.com/documentation/swiftui/windows), [toolbars](https://developer.apple.com/documentation/swiftui/toolbars), and [search function](https://developer.apple.com/documentation/swiftui/search) for the app that I will make. Windows can help me make different tabs of text that people can multitask and be able to read multiple things all at once. Toolbars can help me with giving the user more options for menus and interactive buttons on screen. Search function can be an addition to everything else so it can give the user ease or maybe if I made my game multiplayer, I can make a search function for something like a player finder.
+
+* SwiftUI has something like a [hierarchy](https://developer.apple.com/documentation/swiftui/view-fundamentals) for when UI is displayed. This is probably like the Z coordinate value on HTML and CSS. It probably prioritizes what comes first and what comes after. This might be helpful since I can prioritize what the user needs to know on top instead of everything being messy.
+
+* [Images](https://developer.apple.com/documentation/swiftui/images) and [Text input output](https://developer.apple.com/documentation/swiftui/text-input-and-output) is definetly needed whenever I need to make something interactive on my app.
+
+### 1/2/24
+
+* I used [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) to teach me how to make a game using realitykit. I installed it and tried using it.
+
+* I believed that SwiftUI documentation was too confusing and the app that I used to 
