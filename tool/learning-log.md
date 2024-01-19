@@ -108,4 +108,7 @@ Some videos I watched:
 * (Playlist) [Mobile Apple AR Tutorials (RealityKit/ArKit/SwiftUI)](https://www.youtube.com/playlist?list=PLb0SG4T4tfPyQF-hMntGxaKqUJOKZQ2QX)
 * [giving me insight on how I can apply realitykit to my app](https://developer.apple.com/videos/play/wwdc2023/10080/)
 
+I used these websites to help me:
 
+* [the website that helped me make a dice game mainly using realitykit](https://www.ralfebert.com/ios/realitykit-dice-tutorial/)
+* [I went on forums to help me understand what I needed to create a game and what some discussions on ]
