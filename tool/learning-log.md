@@ -89,4 +89,15 @@ funct resetValues() {
 
 * I used [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) to teach me how to make a game using realitykit. I installed it and tried using it.
 
-* I believed that SwiftUI documentation was too confusing and the app that I used to 
+* I believed that SwiftUI documentation was too confusing and the [app](https://developer.apple.com/swift-playgrounds/) that I used to learn SwiftUI took too long. I decided to watch more youtube tutorials and use this website named ["Hacking with Swift"](https://developer.apple.com/swift-playgrounds/). It helped me with many things like explaining what SwiftUI did and more in depth explainations that were also simple enough for me to understand.
+
+Some videos I watched were:
+
+* [2021 SwiftUI Tutorial for Beginners](https://www.youtube.com/watch?v=F2ojC6TNwws)
+* [ SwifftUI Findamentals | FULL COURSE | Beginner Friendly](https://www.youtube.com/watch?v=b1oC7sLIgpI)
+* (Playlist)[SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI)
+* (Playlist)[SwiftUI Tutorials](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI)
+
+### 1/16/24
+
+* I watched more videos 
